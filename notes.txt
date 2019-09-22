@@ -1,0 +1,6 @@
+manifest.display values: standalone,fullscreen,minimal-ui,browser
+manifest.orientation values: portrait-primary,landscape-primary
+
+  "related_applications": [
+    {"platform":  "play", "url":  "...", "id":  "..."}
+  ]
